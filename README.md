@@ -1,6 +1,4 @@
-# 👋 Hi, I’m Praney
+# Hi, I’m Praney 
+Currently working on Arduino and/or Raspberry Pi Projects and Game Development!
 
-<!---
-praney0/praney0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+C, C#, Python, JS, Raspberry Pi, & Arduino
